@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 **/ny_taxi_postgres_data/**
 data/**
+**/*.tfstate*
+**/.terraform*
